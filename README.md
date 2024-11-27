@@ -1,3 +1,9 @@
+## Introduzione
+
+La tabella mostra i risultati dell'estrazione automatica di costruzioni a verbo supporto dai corpus [Paisà](https://www.corpusitaliano.it/) e [ItaIst](https://huggingface.co/datasets/VerbACxSS/ItaIst).
+
+L'estrazione delle costruzioni a verbo supporto è stata effettuata confrontando la similarità semantica tra verbi semanticamente pieni e combinazioni di verbo supporto + nome, dove quest'ultimo è morfologicamente correlato al verbo pieno.
+
 ## Descrizione dei File:
 
 ### VerbiAGGREGATO.xlsx:
@@ -42,3 +48,12 @@ Il secondo tab (VSUP_RISTRETTO) contiene tutte le costruzioni con i verbi suppor
 
 Il terzo tab (ITAIST_PRESENTE) contiene solo le righe del VSUP_RISTRETTO il cui verbo sintetico o analitico appare nel corpus ItaIst almeno una volta
 
+```
+@online{VsupItaIst,
+  title = {Costruzioni a verbo supporto nell'italiano istituzionale},
+  author = {Cirillo, Nicola and Maisto, Alessandro},
+  year = {2024},
+  url = {[https://github.com/amatusNLP/vsup_extraction]},
+  urldate = {2024-11-27}
+}
+```
