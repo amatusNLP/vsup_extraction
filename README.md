@@ -50,7 +50,7 @@ Il terzo tab (ITAIST_PRESENTE) contiene solo le righe del VSUP_RISTRETTO il cui 
 
 ```
 @online{VsupItaIst,
-  title = {Costruzioni a verbo supporto nell'italiano istituzionale},
+  title = {Dati per lo studio delle costruzioni a verbo supporto nell'italiano istituzionale},
   author = {Cirillo, Nicola and Maisto, Alessandro},
   year = {2024},
   url = {[https://github.com/amatusNLP/vsup_extraction]},
